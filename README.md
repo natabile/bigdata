@@ -4,6 +4,8 @@ Click on the BigDataProjectDocs.docx file in this repository.
 GitHub will display a "View raw" option at the top of the file.
 Click "View raw", and the document will automatically download.
 Open the downloaded .docx file using Microsoft Word, Google Docs, or any compatible editor.
+screenshoot from postgres
+![top selling product](https://github.com/natabile/bigdata/blob/main/visualizatioimage/Top%20Selling%20Products.png?raw=true)
 
 Visualization images
 
@@ -18,5 +20,6 @@ sales trend over time
 (https://github.com/natabile/bigdata/blob/main/visualizatioimage/Sales%20Trend%20Over%20Time.png?raw=true)
 top selling product
 ![top selling product](https://github.com/natabile/bigdata/blob/main/visualizatioimage/Top%20Selling%20Products.png?raw=true)
+
 
 
