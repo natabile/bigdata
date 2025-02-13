@@ -9,6 +9,6 @@ Open the downloaded .docx file using Microsoft Word, Google Docs, or any compati
 ![Image Alt Text](./visualizatioimage/Customer Segmentation by Country.png)
 ![Image Alt Text](./visualizatioimage/Revenue by Country.png)
 ![Image Alt Text](./visualizatioimage/Sales Trend Over Time.png)
-![Image Alt Text](./visualizatioimage/Top Selling Products.png)
+![Image Alt Text](./visualizatioimage/Average Order Value Over Time.png)
 ![Image Alt Text](./visualizatioimage/Top Selling Products.png)
 
