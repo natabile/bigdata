@@ -6,8 +6,9 @@ Click "View raw", and the document will automatically download.
 Open the downloaded .docx file using Microsoft Word, Google Docs, or any compatible editor.
 
 
-![alt text](<visualizatioimage\Average Order Value Over Time.png>)
-![alt text](<visualizatioimage\Customer Segmentation by Country.png>)
-![alt text](<visualizatioimage\Revenue by Country.png>)
-![alt text](<visualizatioimage\Sales Trend Over Time.png>)
-![alt text](<visualizatioimage\Top Selling Products.png>)
+![Image Alt Text](./visualizatioimage/Customer Segmentation by Country.png)
+![Image Alt Text](./visualizatioimage/Revenue by Country.png)
+![Image Alt Text](./visualizatioimage/Sales Trend Over Time.png)
+![Image Alt Text](./visualizatioimage/Top Selling Products.png)
+![Image Alt Text](./visualizatioimage/Top Selling Products.png)
+
