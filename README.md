@@ -1,6 +1,5 @@
-To view the Big Data Project Docs, follow these steps:
-
-Click on the BigDataProjectDocs.docx file in this repository.
-GitHub will display a "View raw" option at the top of the file.
-Click "View raw", and the document will automatically download.
-Open the downloaded .docx file using Microsoft Word, Google Docs, or any compatible editor.
+![alt text](<Average Order Value Over Time.png>)
+![alt text](<Customer Segmentation by Country.png>)
+![alt text](<Revenue by Country.png>)
+![alt text](<Sales Trend Over Time.png>)
+![alt text](<Top Selling Products.png>)
