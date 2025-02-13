@@ -5,7 +5,7 @@ GitHub will display a "View raw" option at the top of the file.
 Click "View raw", and the document will automatically download.
 Open the downloaded .docx file using Microsoft Word, Google Docs, or any compatible editor.
 screenshoot from postgres
-![top selling product](https://github.com/natabile/bigdata/blob/main/visualizatioimage/Screenshot%202025-01-24%20224708.png?raw=true)
+![top selling product](https://github.com/natabile/bigdata/blob/main/visualizatioimage/Screenshot%202025-02-13%20134850.png?raw=true)
 
 Visualization images
 
